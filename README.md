@@ -33,9 +33,13 @@ hzmhhmdn99@github
 <img alt="#917b88" src="https://www.icolorpalette.com/download/solidcolorimage/8982a3_solid_color_background_icolorpalette.png" width="25" height="20" /><img alt="#fdfef6" src="https://www.colorhexa.com/747b81.png" width="25" height="20" /><img alt="#91bebb" src="https://www.colorhexa.com/e08484.png" width="25" height="20" /><img alt="#feb2bf" src="https://www.colorhexa.com/826262.png" width="25" height="20" /><img alt="#95e3ed" src="https://www.colorhexa.com/e1ccc7.png" width="25" height="20" />
 </p>
 
-```console
-i love cat
-```
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzmhhmdn99&layout=compact)
+
+
+
 
 ```
 CATching bugs in code...
